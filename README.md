@@ -1,2 +1,2 @@
 # go_learning
-First learn go project
+Learning Chinese for the first time
