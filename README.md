@@ -1,2 +1,2 @@
 # go_learning
-Learning Chinese for the first time
+Learning go for the first time
